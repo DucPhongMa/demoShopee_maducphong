@@ -849,8 +849,6 @@
 .header__search-select{
     border-left: 1px solid #E8E8E8;
     padding-left: 16px;
-    height: 30px;
-    padding-top: 8px;
     position: relative;
     cursor: pointer;
 }
@@ -951,7 +949,7 @@
 }
 
 .header__search-option-item--active i{
-    display: inline-flex;
+    display: inline-block;
 }
 
 .header__search-input:focus ~ .header__search-history{
