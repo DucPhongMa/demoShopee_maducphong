@@ -951,7 +951,7 @@
 }
 
 .header__search-option-item--active i{
-    display: inline-block;
+    display: inline-flex;
 }
 
 .header__search-input:focus ~ .header__search-history{
