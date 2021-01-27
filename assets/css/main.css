@@ -1442,15 +1442,11 @@ i.home-product-item__like-icon-fill{
     color: #EE4D2D;
     font-weight: bold;
     font-size: 1.2rem;
-    position: relative;
-    top: 2px;
 }
 
 .home-product-item__sale-off-label{
     color: var(--white-color);
     font-size: 1.3rem;
-    position: relative;
-    top: 0px;
     font-weight: bold;
 }
 
